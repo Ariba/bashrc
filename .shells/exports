@@ -14,7 +14,7 @@ export HISTIGNORE='&:clear:ls:cd:[bf]g:exit:[ t\]*'
 
 # Bitbake Env settings
 export BBPATH=/stuff/maemo-angstrom:/stuff/build:/stuff/openembedded
-export PATH=/stuff/bitbake/bin:$PATH
+export PATH=$PATH
 
 # Proxy settings
 #export http_proxy='127.0.0.1:5050'
